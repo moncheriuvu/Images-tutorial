@@ -1,6 +1,6 @@
 # Images-tutorial
-All about image placing ig
+All about image placing !
 
 <p align="center">
-  <img src="gambar/banner.png" alt="Banner selamat datang warna biru" width="500">
+  <img src="To all girls🌸.jpeg" alt="halo" width="500">
 </p>
