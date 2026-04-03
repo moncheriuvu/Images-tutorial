@@ -1,5 +1,8 @@
 # Images-tutorial
-All about image placing !
+Disclaimer: --> This repository is under development because I am learning Github as we speak.
+                Many things will be added in the future. For knowledge purpose only.
+
++ All kinds of image placings!
 
 # Center 
 <p align="center">
@@ -24,4 +27,4 @@ All about image placing !
 
 
 
-# That's all for today! Ty for seeing this. Have a nice day ^^.
+# That's all for today! Thank you for seeing this. Have a nice day ^^.
