@@ -20,4 +20,8 @@ All about image placing !
 ---> This is the left placement. The text is, expected, goes to right. 
 
 
+
+
+
+
 # That's all for today! Ty for seeing this. Have a nice day ^^.
