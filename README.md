@@ -12,3 +12,4 @@ All about image placing !
 
 ---> This is the right placement. The text will automatically goes to the left.
      Lovely, right?
+<img src="Don’t Over Think It.jpeg" width="70" align="left">
